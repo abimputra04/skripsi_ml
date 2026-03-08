@@ -32,6 +32,7 @@ skripsi_ml/
 Dataset yang digunakan dalam penelitian ini **bukan merupakan dataset yang dibuat oleh penulis**, melainkan diperoleh dari platform **Kaggle** dan digunakan untuk keperluan eksperimen model machine learning.
 
 Sumber dataset:
+
 Kaggle – [Crop Recommendation Dataset]
 https://www.kaggle.com/atharvaingle/crop-recommendation-dataset
 
